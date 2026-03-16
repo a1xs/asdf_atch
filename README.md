@@ -1,20 +1,26 @@
 # asdf-atch
+atch plugin for the  [asdf version manager](https://asdf-vm.com/)
 
-# asdf-atch
+atch is a small C utility that lets you attach and detach terminal sessions, similar to the detach feature of screen/tmux — but without the terminal emulation, multiple windows, or other overhead.
+https://github.com/mobydeck/atch
 
 
-asdf plugin for atch
-
-
-## Install plugin
-
+# Install plugin
 
 ```bash
 asdf plugin add atch https://github.com/a1xs/asdf-atch
 ```
 
-## Install app
 
+#  Install app
+
+## Install latest version
+```bash
+asdf install alire latest
+```
+
+## Install specific version
 ```bash
 asdf install atch 0.4
 ```
+
