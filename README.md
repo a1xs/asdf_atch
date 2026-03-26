@@ -8,7 +8,7 @@ https://github.com/mobydeck/atch
 # Install plugin
 
 ```bash
-asdf plugin add atch https://github.com/a1xs/asdf-atch
+asdf plugin add atch https://github.com/a1xs/asd_atch
 ```
 
 
