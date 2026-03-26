@@ -13,7 +13,7 @@ asdf plugin add atch https://github.com/a1xs/asd_atch
 
 ## Install latest version
 ```bash
-asdf install alire latest
+asdf install atch latest
 ```
 
 ## Install specific version
